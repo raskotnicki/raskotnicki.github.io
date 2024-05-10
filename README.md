@@ -1,10 +1,13 @@
 # raskotnicki.github.io
-Software Engineer
+#Software Engineer
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-Education
+
+#Education
 B.S., Computer Science | Southern New Hampshire University (May 2017)
-Work Experience
-Student Intern Data Scientist 
+
+#Work Experience
+
+#Student Intern Data Scientist 
 
 Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
