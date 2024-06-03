@@ -20,3 +20,9 @@ Data-Driven EEG Band Discovery with Decision Trees
 Publication
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+
+#Code Review
+As part of my capstone project, I have conducted a code review of the three artifacts included in this portfolio.
+
+Please follow the link to the code review.
+https://www.dropbox.com/scl/fi/ilxk516tctuurfv359lza/2-2-Milestone.mp4?rlkey=eand98w7wjuxd43qq8a894f0i&st=2p5p33y8&dl=0
