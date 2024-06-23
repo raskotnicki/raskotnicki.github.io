@@ -1,6 +1,7 @@
 #Professional Self-Assessment
 ##Introduction
-My name is Ryan Skotnicki, and I am a recent graduate of UMBC with a B.Sc. in Mathematics and Computer Science. Throughout my academic journey, I have developed a strong foundation in computer science principles, and I have honed my skills through various projects and assignments. This ePortfolio represents the culmination of my studies, showcasing my growth, accomplishments, and readiness to enter the professional world.
+
+My name is Ryan Skotnicki, and I am a recent graduate of SNHU with a B.Sc. in Computer Science. Throughout my academic journey, I have developed a strong foundation in computer science principles, and I have honed my skills through various projects and assignments. This ePortfolio represents the culmination of my studies, showcasing my growth, accomplishments, and readiness to enter the professional world.
 
 ##Skills and Strengths
 Completing my coursework and developing this ePortfolio has allowed me to showcase my strengths in several key areas:
